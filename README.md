@@ -7,3 +7,7 @@ The old among us that you can play today!
 
 # Available for Linux Windows and Android!
 <img width="658" height="140" alt="propaganda2" src="https://github.com/user-attachments/assets/db2d3ad8-b136-40d2-b165-4ed2feaedef3" />
+
+# Community
+
+If you wanna know more about the project or report anything, join the [Discord Server](https://discord.gg/Zbzj9wfPe8).
