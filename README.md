@@ -12,3 +12,5 @@ The old among us that you can play today!
 # Community
 
 If you wanna know more about the project or report anything, join the [Discord Server](https://discord.gg/Zbzj9wfPe8).
+
+# Credits to inneruss for giving the source code.
